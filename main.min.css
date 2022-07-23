@@ -32,15 +32,6 @@
     }
 
 @font-face {
-    font-family: Lato;
-    src: url(../fonts/Lato-Regular/Lato-Regular.eot);
-    src: url(../fonts/Lato-Regular/Lato-Regular.woff) format("woff");
-    src: url(../fonts/Lato-Regular/Lato-Regular.ttf) format("truetype");
-    font-style: normal;
-    font-weight: 400
-}
-
-@font-face {
     font-family: Corinthia;
     src: url(../fonts/Corinthia/Corinthia.eot);
     src: url(../fonts/Corinthia/Corinthia.woff) format("woff");
@@ -56,15 +47,6 @@
     src: url(../fonts/Lato-Italic/Lato-Italic.ttf) format("truetype");
     font-style: italic;
     font-weight: 400
-}
-
-@font-face {
-    font-family: Lato;
-    src: url(../fonts/Lato-Bold/Lato-Bold.eot);
-    src: url(../fonts/Lato-Bold/Lato-Bold.woff) format("woff");
-    src: url(../fonts/Lato-Bold/Lato-Bold.ttf) format("truetype");
-    font-style: normal;
-    font-weight: 700
 }
 
 @font-face {
